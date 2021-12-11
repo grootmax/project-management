@@ -1,3 +1,23 @@
+# Project-Management
+  * project-management is a simple react app, that helps in organising the progress of a app. the data is stored in json.
+  
+# Future for project-management
+  * UI/UX will be improved.
+  * User verification, login, registration and data will be connected.
+  * Editable datasets 
+  * team collaborations 
+  
+# Stack Used :
+   * React.js
+   
+# Screenshots of the project ⬇️ 
+  ![](project-management.png)
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +86,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+# Live demo :
+
+  * link - https://modest-jang-0ef268.netlify.app/
+
+
